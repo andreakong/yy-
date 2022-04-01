@@ -21,5 +21,6 @@ def get_people_with_high_temperatures(ppl_list):
                         pass
                     else:
                         result_list.append(name)
+        
         return result_list
 
